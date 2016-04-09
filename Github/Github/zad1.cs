@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Github
 {
-    class Program
+    class zad1
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.WriteLine("Hello, C3!");
         }
     }
 }
